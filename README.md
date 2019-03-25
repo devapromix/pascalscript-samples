@@ -1,1 +1,1 @@
-# pascalscript-samples
+# PascalScript samples
